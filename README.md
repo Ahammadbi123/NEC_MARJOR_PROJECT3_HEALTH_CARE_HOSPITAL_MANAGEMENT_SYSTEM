@@ -10,6 +10,14 @@ The project is designed to improve healthcare operations, optimize resource util
 
 ---
 
+# 🌐 Live Demo
+
+🚀 Deployed Application:
+
+https://nec-marjor-project3-health-care-hospital.onrender.com
+
+Click the link above to access the live Healthcare Prediction & Hospital Resource Management System.
+
 ## 🎯 Objectives
 
 - Improve hospital management efficiency
