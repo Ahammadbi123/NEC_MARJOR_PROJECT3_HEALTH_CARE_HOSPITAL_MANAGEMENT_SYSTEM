@@ -379,7 +379,7 @@ Major Project
 
 # 👨‍💻 Developed By
 
-**Sri**
+**SHAIK AHAMMAD BI**
 
 Artificial Intelligence & Machine Learning Student
 
