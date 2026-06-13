@@ -1,5 +1,14 @@
 # 🏥 AI-Powered Healthcare Prediction & Hospital Resource Management System
 
+# 🌐 Live Demo
+
+🚀 Deployed Application:
+
+https://nec-marjor-project3-health-care-hospital.onrender.com
+
+Click the link above to access the live Healthcare Prediction & Hospital Resource Management System.
+
+
 ## 📌 Project Overview
 
 The AI-Powered Healthcare Prediction & Hospital Resource Management System is an intelligent healthcare platform developed using Streamlit, Python, Machine Learning, and Data Analytics.
@@ -9,14 +18,6 @@ This system helps hospitals efficiently manage patients, doctors, appointments, 
 The project is designed to improve healthcare operations, optimize resource utilization, support medical decision-making, and enhance patient care.
 
 ---
-
-# 🌐 Live Demo
-
-🚀 Deployed Application:
-
-https://nec-marjor-project3-health-care-hospital.onrender.com
-
-Click the link above to access the live Healthcare Prediction & Hospital Resource Management System.
 
 ## 🎯 Objectives
 
